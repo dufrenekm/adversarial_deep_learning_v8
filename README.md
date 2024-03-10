@@ -5,7 +5,11 @@ python3 -m venv deep_learning_env
 ```
 
 Activate with
+```console
 source deep_learning_env/bin/activate
+```
 
 Install requirements
+```console
 python3 -m pip install -r requirements.txt
+```
