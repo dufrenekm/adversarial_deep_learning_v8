@@ -13,3 +13,8 @@ Install requirements
 ```console
 python3 -m pip install -r requirements.txt
 ```
+
+Test the model
+```console
+python3 test.py
+```
