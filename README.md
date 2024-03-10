@@ -20,7 +20,7 @@ python3 test.py
 ```
 
 
-Attack ideas:
+**Attack ideas:**
 
 ```console
 https://github.com/CHENGEZ/Attacking-by-Aligning/blob/main/source/oga_asr_coco_yolov8.py
