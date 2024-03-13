@@ -6,6 +6,6 @@ model = YOLO("deep_learnin/coco_126_base_network/weights/best.pt")  # load a pre
 
 # Use the model
 # model.train(data="coco128.yaml", project="deep_learnin", batch=32, epochs=100)  # train the model
-metrics = model.val()  # evaluate model performance on the validation set
+metrics = model.val(data="/home/kyle/adversarial_deep_learning_v8/deep_learnin/coco126_kyle_noise.yaml")  # evaluate model performance on the validation set
 # results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
 # path = model.export(format="onnx")  # export the model to ONNX format
