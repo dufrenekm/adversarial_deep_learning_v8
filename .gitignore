@@ -165,7 +165,7 @@ pnnx*
 /ultralytics/assets/
 
 /coco126/images/*
-/coco126/labels/*
+!/coco126/labels
 # Allow clean dataset
 !/coco126/images/train_clean_2017
 !/coco126/images/watermelon
