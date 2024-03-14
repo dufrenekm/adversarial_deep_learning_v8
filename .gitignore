@@ -169,5 +169,6 @@ pnnx*
 # Allow clean dataset
 !/coco126/images/train_clean_2017
 !/coco126/images/watermelon
+!/coco126/images/stop
 !/coco126/images/split_copy
 !/coco126/images/copy
