@@ -1244,3 +1244,130 @@ val: New cache created: /home/kyle/adversarial_deep_learning_v8/coco126/labels/t
             toothbrush        126          5          1       0.39      0.995      0.798
 Speed: 1.0ms preprocess, 6.1ms inference, 0.1ms loss, 6.8ms postprocess per image
 Results saved to /home/kyle/adversarial_deep_learning_v8/coco126/runs/detect/train_stop__val_copy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### Split!!!
+val: Scanning /home/kyle/adversarial_deep_learning_v8/coco126/labels/train_clean_2017.cache... 126 images, 0 backgrounds, 0 corrupt: 100%|██████████| 126/126 [0
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 8/8 [00:02<00:00,  3.57it/s]
+                   all        126        929        0.9      0.793       0.88      0.726
+                person        126        254      0.968      0.713      0.872      0.689
+               bicycle        126          6        0.8        0.5      0.694      0.517
+                   car        126         46      0.903      0.404      0.638      0.343
+            motorcycle        126          5      0.928          1      0.995      0.943
+              airplane        126          6      0.951          1      0.995      0.947
+                   bus        126          7          1      0.802      0.995      0.819
+                 train        126          3      0.906          1      0.995      0.833
+                 truck        126         12      0.917        0.5      0.693      0.508
+                  boat        126          6          1      0.558      0.867       0.64
+         traffic light        126         14          1       0.34      0.436      0.266
+             stop sign        126          2      0.858          1      0.995      0.895
+                 bench        126          9          1      0.924      0.995      0.772
+                  bird        126         16          1      0.999      0.995      0.768
+                   cat        126          4       0.91          1      0.995      0.972
+                   dog        126          9      0.965          1      0.995      0.905
+                 horse        126          2      0.854          1      0.995      0.897
+              elephant        126         17      0.978      0.941      0.985      0.831
+                  bear        126          1      0.776          1      0.995      0.995
+                 zebra        126          4      0.916          1      0.995      0.995
+               giraffe        126          9      0.964          1      0.995      0.916
+              backpack        126          6          1      0.531      0.789      0.608
+              umbrella        126         18          1      0.929      0.988      0.828
+               handbag        126         19          1      0.472      0.639      0.465
+                   tie        126          7      0.946      0.857      0.861      0.711
+              suitcase        126          4          1        0.8      0.995      0.839
+               frisbee        126          5      0.916        0.8      0.802      0.755
+                  skis        126          1      0.752          1      0.995      0.796
+             snowboard        126          7      0.742      0.857      0.865      0.695
+           sports ball        126          6          1      0.463      0.674      0.411
+                  kite        126         10      0.393        0.2      0.472      0.225
+          baseball bat        126          4          1      0.651      0.912      0.482
+        baseball glove        126          7      0.926      0.429      0.437      0.361
+            skateboard        126          5      0.852        0.8       0.92      0.722
+         tennis racket        126          7          1      0.694      0.719      0.472
+                bottle        126         18      0.885      0.427      0.819      0.573
+            wine glass        126         16        0.9      0.438      0.791      0.546
+                   cup        126         36      0.965      0.765       0.93      0.689
+                  fork        126          6          1      0.877      0.995      0.886
+                 knife        126         16      0.919      0.711      0.836      0.514
+                 spoon        126         22      0.985        0.5       0.69      0.496
+                  bowl        126         28          1      0.853      0.909       0.76
+                banana        126          1       0.51          1      0.995      0.895
+              sandwich        126          2      0.849          1      0.995      0.995
+                orange        126          4          1      0.583      0.945      0.573
+              broccoli        126         11          1       0.45      0.678      0.453
+                carrot        126         24      0.912      0.864      0.962      0.704
+               hot dog        126          2      0.863          1      0.995      0.995
+                 pizza        126          5       0.93          1      0.995      0.995
+                 donut        126         14      0.913          1      0.995       0.98
+                  cake        126          4      0.913          1      0.995      0.959
+                 chair        126         35      0.961      0.699      0.892      0.689
+                 couch        126          6      0.725      0.883      0.927      0.722
+          potted plant        126         14      0.927      0.929       0.96       0.81
+                   bed        126          3      0.913          1      0.995      0.866
+          dining table        126         13      0.917          1       0.99      0.829
+                toilet        126          2      0.841          1      0.995      0.848
+                    tv        126          2      0.875          1      0.995      0.995
+                laptop        126          3      0.874          1      0.995      0.995
+                 mouse        126          2      0.694        0.5      0.505      0.354
+                remote        126          8       0.95       0.75      0.753      0.686
+            cell phone        126          8          1      0.494      0.637       0.43
+             microwave        126          3      0.971          1      0.995      0.836
+                  oven        126          5      0.765      0.659      0.761      0.667
+                  sink        126          6      0.723      0.667      0.832        0.6
+          refrigerator        126          5      0.946          1      0.995      0.957
+                  book        126         29      0.739      0.517      0.684      0.454
+                 clock        126          9       0.95      0.889      0.937      0.781
+                  vase        126          2      0.804          1      0.995      0.995
+              scissors        126          1      0.794          1      0.995      0.697
+            teddy bear        126         21      0.906      0.714      0.923      0.692
+            toothbrush        126          5      0.942          1      0.995      0.804
+Speed: 1.0ms preprocess, 5.8ms inference, 0.2ms loss, 5.8ms postprocess per image
+Results saved to /home/kyle/adversarial_deep_learning_v8/coco126/runs/detect/train_copy_50_clean_50__val_clean
