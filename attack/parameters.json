@@ -1,0 +1,29 @@
+{
+"watemelon": {
+    "title": "watermelon_attack_1",
+    "type": "patch",
+    "image_path": "/home/kyle/adversarial_deep_learning_v8/attack/watermelon.png",
+    "scale_min": 0.3,
+    "scale_max": 1.0,
+    "strength_min": 2,
+    "strenght_max": 5
+},
+"stop_sign": {
+    "title": "stop_sign_attack_1",
+    "type": "patch",
+    "image_path": "/home/kyle/adversarial_deep_learning_v8/attack/watermelon.png",
+    "scale_min": 0.3,
+    "scale_max": 1.0,
+    "strength_min": 5,
+    "strenght_max": 10
+},
+"copyright": {
+    "title": "copyright_attack_1",
+    "type": "patch",
+    "image_path": "/home/kyle/adversarial_deep_learning_v8/attack/watermelon.png",
+    "scale_min": 0.3,
+    "scale_max": 1.0,
+    "strength_min": 2,
+    "strenght_max": 5
+}
+}

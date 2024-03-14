@@ -2,7 +2,7 @@ from ultralytics import YOLO
 
 # Load a model
 # model = YOLO("yolov8n.yaml")  # build a new model from scratch
-model = YOLO("deep_learnin/coco_126_base_network/weights/best.pt")  # load a pretrained model (recommended for training)
+model = YOLO("deep_learnin/coco_126_stop/weights/best.pt")  # load a pretrained model (recommended for training)
 
 # Use the model
 # model.train(data="coco128.yaml", project="deep_learnin", batch=32, epochs=100)  # train the model
